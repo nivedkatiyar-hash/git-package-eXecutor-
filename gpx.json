@@ -3,3 +3,4 @@
   "run": "python3 main.py",
   "description": "A tool that does something cool"
 }
+{ "run": "python3 my_script.py" }
